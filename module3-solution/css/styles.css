@@ -1,0 +1,25 @@
+.navbar {
+	width: 100%;
+}
+
+.navbar .container {
+	width: 100%;
+}
+
+.navbar-collapse {
+	padding: 0;
+}
+
+#nav-list {
+	text-align: center;
+	margin-bottom: 0;
+	background-color: #cf4a58;
+}
+
+div > section {
+	background-color: #a1cdff;
+}
+
+li {
+	border: 1px solid black;
+}
